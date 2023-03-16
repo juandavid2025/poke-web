@@ -1,0 +1,12 @@
+.pokedex {
+  margin: 0 auto;
+  max-width: 70rem;
+  padding: 2rem;
+  background-color: white;
+  border-radius: 5px;
+  border-top: 3px solid red;
+
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  justify-items: center;
+}

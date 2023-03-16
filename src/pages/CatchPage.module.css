@@ -1,0 +1,8 @@
+.main_section {
+  display: flex;
+  flex-direction: column;
+  background-color: #5db9ff;
+  padding: 5rem 3rem;
+  min-height: 85vh;
+}
+/* #363b81 */

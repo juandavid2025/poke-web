@@ -1,0 +1,9 @@
+.pokemon_item {
+  margin: 0 auto;
+  padding: 5rem 0;
+}
+
+.pokeball_img {
+  max-width: 15rem;
+  height: auto;
+}
